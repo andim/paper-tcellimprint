@@ -1,0 +1,11 @@
+name: py3
+dependencies:
+    - python=3.7
+    - numpy
+    - scipy
+    - pandas
+    - matplotlib
+    - seaborn
+    - pip:
+        - olga
+        - palettable

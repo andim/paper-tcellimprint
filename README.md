@@ -23,11 +23,12 @@ A number of standard scientific python packages are needed for the numerical sim
 Additionally the code also relies on the following package:
 
 - [OLGA](https://github.com/statbiophys/OLGA)
+- [palettable](https://jiffyclub.github.io/palettable/)
 
 
 ## Contact
 
-If you run into any difficulties running the code, feel free to contact us at `andimscience@gmail.com`.
+If you run into any difficulties running the code, please contact us at `andimscience@gmail.com`.
 
 ## License
 
